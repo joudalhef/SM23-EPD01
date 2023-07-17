@@ -18,4 +18,8 @@ Part 2:
 4-1 kΩ Resistor (8)
 # Circuit
 Part 1:
+![Epic Vihelmo-Gogo](https://github.com/joudalhef/SM23-EPD01/assets/139080884/31d89c9d-b524-415e-b914-dbf113fe3f93)
+
+
+Part 2:
 ![Ingenious Lahdi](https://github.com/joudalhef/SM23-EPD01/assets/139080884/60e6bbf5-a20b-4601-a0e5-28442e1dfdda)
