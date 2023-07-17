@@ -1,5 +1,7 @@
 # Introduction
 part 1: is the operation of the LED with a simple electrical circuit in addition to the special programming code that shows the inputs and outputs of the signals with the specified lighting duration (Delay).
+
+
 part 2: is operation of the LED Matrix and I used the shape (heart) to make it the only one that works , The LED Matrixes consist of an array of LEDs arranged in a grid. This display has a total of 64 LEDs in 8 rows and 8 columns.
 # Components 
 Part 1:
@@ -7,6 +9,8 @@ Part 1:
 2- Pushbutton (1)
 3-Arduino Uno R3 (1)
 4-10 kΩ Resistor (2)
+
+
 Part 2:
 1-Blue LED (24) 
 2-Red LED (40)
