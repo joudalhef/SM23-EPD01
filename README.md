@@ -16,6 +16,8 @@ Part 2:
 2-Red LED (40)
 3-Arduino Uno R3 (1)
 4-1 kΩ Resistor (8)
+# Used by
+Tinkercad
 # Circuit
 Part 1:
 ![Epic Vihelmo-Gogo](https://github.com/joudalhef/SM23-EPD01/assets/139080884/31d89c9d-b524-415e-b914-dbf113fe3f93)
@@ -25,23 +27,4 @@ Part 2:
 ![Ingenious Lahdi](https://github.com/joudalhef/SM23-EPD01/assets/139080884/60e6bbf5-a20b-4601-a0e5-28442e1dfdda)
 
 # Code 
-Part 1:
-int pushButton = 0;
-
-void setup() 
-{
-  pinMode(13, OUTPUT);
-  pinMode(2, INPUT);
-}
-void loop() 
-{
-  pushButton = digitalRead(2);
-  if (pushButton == HIGH) {
-    digitalWrite(13, HIGH);
-  }
-  else{
-    digitalWrite(13, LOW);
-  }
-  delay(10);
-}
 
