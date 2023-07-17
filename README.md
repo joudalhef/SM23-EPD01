@@ -17,3 +17,5 @@ Part 2:
 3-Arduino Uno R3 (1)
 4-1 kΩ Resistor (8)
 # Circuit
+Part 1:
+![Ingenious Lahdi](https://github.com/joudalhef/SM23-EPD01/assets/139080884/60e6bbf5-a20b-4601-a0e5-28442e1dfdda)
