@@ -65,22 +65,38 @@ void loop()
 
 
 Part 2:
+
 #define ROW1 13
+
 #define ROW2 12
+
 #define ROW3 11
+
 #define ROW4 10
+
 #define ROW5 9
+
 #define ROW6 8
+
 #define ROW7 7
+
 #define ROW8 6
 
+
 #define COL1 5
+
 #define COL2 4
+
 #define COL3 3
+
 #define COL4 2
+
 #define COL5 A4
+
 #define COL6 A3
+
 #define COL7 A2
+
 #define COL8 A1
 
 const int row[] = {ROW1, ROW2, ROW3, ROW4, ROW5, ROW6, ROW7, ROW8};
@@ -90,14 +106,23 @@ const int col[] = {COL1,COL2, COL3, COL4, COL5, COL6, COL7, COL8};
 
 
 
-int A[8][8] = {{1,0,0,1,1,0,0,1},
-		       {0,0,0,0,0,0,0,0},
-		       {0,0,0,0,0,0,0,0},
-		       {0,0,0,0,0,0,0,0},
-		       {1,0,0,0,0,0,0,1},
-		       {1,1,0,0,0,0,1,1},
-		       {1,1,1,0,0,1,1,1},
-		       {1,1,1,1,1,1,1,1}};
+int A[8][8] = 
+       
+	{{1,0,0,1,1,0,0,1},
+		      
+	 {0,0,0,0,0,0,0,0},
+		      
+	 {0,0,0,0,0,0,0,0},
+		      
+	 {0,0,0,0,0,0,0,0},
+		      
+	 {1,0,0,0,0,0,0,1},
+		      
+	 {1,1,0,0,0,0,1,1},
+		      
+	 {1,1,1,0,0,1,1,1},
+		     
+	 {1,1,1,1,1,1,1,1}};
 
 void setup() {
   
