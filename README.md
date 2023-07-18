@@ -26,7 +26,9 @@ Part 1:
 Part 2:
 ![Ingenious Lahdi](https://github.com/joudalhef/SM23-EPD01/assets/139080884/60e6bbf5-a20b-4601-a0e5-28442e1dfdda)
 # Code
+
 Part 1:
+
 int pushButton = 0;
 
 void setup() 
