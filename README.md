@@ -41,15 +41,19 @@ void setup()
 void loop() 
 
 {
- 
+ pushButton = digitalRead(2);
   
-  pushButton = digitalRead(2);
   if (pushButton == HIGH) {
+    
     digitalWrite(13, HIGH);
   }
+ 
   else{
+    
     digitalWrite(13, LOW);
   }
+  
   delay(10);
+
 }
 
