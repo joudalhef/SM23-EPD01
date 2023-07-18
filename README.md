@@ -18,7 +18,8 @@ Part 2:
 4-1 kΩ Resistor (8)
 # Used by
 Tinkercad
-[GitHub links](https://www.tinkercad.com/things/6GDPoiwM7Gm-ingenious-lahdi/editel?sharecode=OAuCt8KuGlfElA_yeD1KdNkfK1UUpg0sh-GMlOYlL2Q).
+[Part 1](https://www.tinkercad.com/things/bbXa8CN0cHX-epic-vihelmo-gogo/editel?sharecode=uCfsqxi3PktO4ExZ-mISIMvmH9Arxq3SakBNoTY8X6o).
+[Part 2](https://www.tinkercad.com/things/6GDPoiwM7Gm-ingenious-lahdi/editel?sharecode=OAuCt8KuGlfElA_yeD1KdNkfK1UUpg0sh-GMlOYlL2Q).
 # Circuit
 Part 1:
 ![Epic Vihelmo-Gogo](https://github.com/joudalhef/SM23-EPD01/assets/139080884/31d89c9d-b524-415e-b914-dbf113fe3f93)
